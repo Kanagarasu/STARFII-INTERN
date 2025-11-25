@@ -4,7 +4,7 @@ import home1 from "../assets/homeTop.jpeg"
 
 function Hero() {
   return (
-    <section className="text-center relative w-full h-[750px] flex items-center justify-center bg-white">
+    <section className="text-center relative w-full h-[810px] flex items-center justify-center bg-white">
 
       {/* Background Image */}
       <img 
